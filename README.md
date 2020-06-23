@@ -8,3 +8,6 @@ In Watson Discovery I have added ecobee3_userguide.
 
 Node-Red Dashboard link after deploying : https://node-red-xvpnn.mybluemix.net/ui
 
+YouTube Video Link : https://www.youtube.com/watch?v=Fi-7_9jJ0p8&feature=youtu.be
+
+
